@@ -1,0 +1,21 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.5">
+    <path d="M200 50L350 150L350 250L200 350L50 250L50 150L200 50Z" stroke="url(#paint0_linear_b4)" stroke-width="2" fill="none"/>
+    <path d="M200 100L300 150L300 250L200 300L100 250L100 150L200 100Z" stroke="url(#paint1_linear_b4)" stroke-width="2" fill="none"/>
+    <circle cx="200" cy="200" r="50" fill="url(#paint2_radial_b4)"/>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_b4" x1="50" y1="50" x2="350" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_b4" x1="100" y1="100" x2="300" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d946ef"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <radialGradient id="paint2_radial_b4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(200 200) rotate(90) scale(50)">
+      <stop stop-color="#8b5cf6" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
