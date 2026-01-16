@@ -1,3 +1,6 @@
 [00:00:01.132] Server  LOG     ✓ Ready in 905ms
 [00:00:03.725] Browser WARN    Image with src "/myImage.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
 [00:02:58.567] Browser WARN    Image with src "/myImage.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:46.637] Server  LOG     ✓ Compiled in 1297ms
+[00:26:48.223] Browser WARN    Image with src "http://localhost:3002/b4.svg" has "fill" and a height value of 0. This is likely because the parent element of the image has not been styled to have a set height.
+[00:26:48.224] Browser WARN    Image with src "/myImage.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes

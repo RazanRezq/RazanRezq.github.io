@@ -771,6 +771,10 @@
     margin-left: .09375rem;
   }
 
+  .contents {
+    display: contents;
+  }
+
   .flex {
     display: flex;
   }
